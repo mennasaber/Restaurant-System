@@ -1,0 +1,101 @@
+E:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.exe.config
+E:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.exe
+E:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.pdb
+E:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\MetroFramework.dll
+E:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.exe
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.pdb
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.item.resources
+E:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\bin\Debug\Project_file.exe.config
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.exe
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.pdb
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\bin\Debug\Project_file.exe
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\bin\Debug\Project_file.pdb
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\bin\Debug\MetroFramework.dll
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.item.resources
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+C:\Users\Tayba\Documents\project_file\Project_file\Project_file\obj\Debug\Project_file.bill.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\bin\Debug\Project_file.exe.config
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.exe
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.pdb
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\bin\Debug\Project_file.exe
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\bin\Debug\Project_file.pdb
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\bin\Debug\MetroFramework.dll
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.bill.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.item.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+C:\Users\dell\OneDrive\Desktop\project_file\Project_file\Project_file\obj\Debug\Project_file.chart.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\bin\Debug\Project_file.exe
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\bin\Debug\Project_file.exe.config
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.chart.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.item.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.recommended_items.resources
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.exe
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\obj\Debug\Project_file.pdb
+C:\Users\hp\Desktop\files project\project_file\Project_file\Project_file\bin\Debug\Project_file.pdb
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\bin\Debug\Project_file.exe.config
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.exe
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.pdb
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\bin\Debug\Project_file.exe
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\bin\Debug\Project_file.pdb
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\bin\Debug\MetroFramework.dll
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.chart.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.item.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.recommended_items.resources
+C:\Users\Tayba\Desktop\project file final\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\bin\Debug\Project_file.exe.config
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.exe
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.pdb
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\bin\Debug\Project_file.exe
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\bin\Debug\Project_file.pdb
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\bin\Debug\MetroFramework.dll
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.chart.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.item.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.order.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.recommended_items.resources
+C:\Users\hp\Desktop\files final\project file final\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache
+F:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.exe.config
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.exe
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.pdb
+F:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.exe
+F:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\Project_file.pdb
+F:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\MetroFramework.dll
+F:\NONA\C#_Projects\Project_file\Project_file\bin\Debug\MetroFramework.Fonts.dll
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.csprojResolveAssemblyReference.cache
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.chart.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.Form1.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.item.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.order.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.Properties.Resources.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.recommended_items.resources
+F:\NONA\C#_Projects\Project_file\Project_file\obj\Debug\Project_file.csproj.GenerateResource.Cache

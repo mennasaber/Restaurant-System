@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="delivery_boys">
+  <delivery_boy>
+    <name>mazen</name>
+    <area_code>elmarg</area_code>
+    <phone>01002587848</phone>
+    <numoforders>3</numoforders>
+  </delivery_boy>
+  <delivery_boy>
+    <name>mina</name>
+    <area_code>khalafawy</area_code>
+    <phone>01112587848</phone>
+    <numoforders>3</numoforders>
+  </delivery_boy>
+  <delivery_boy>
+    <name>Mohamed</name>
+    <area_code>shobra</area_code>
+    <phone>01265489609</phone>
+    <numoforders>4</numoforders>
+  </delivery_boy>
+  <delivery_boy>
+    <name>Ahmed</name>
+    <area_code>m3ady</area_code>
+    <phone>01043245456</phone>
+    <numoforders>5</numoforders>
+  </delivery_boy>
+  <delivery_boy>
+    <name>Ali</name>
+    <area_code>nasr city</area_code>
+    <phone>01000686785</phone>
+    <numoforders>10</numoforders>
+  </delivery_boy>
+  <delivery_boy>
+    <name>mourad</name>
+    <area_code>helwan</area_code>
+    <phone>01232487848</phone>
+    <numoforders>5</numoforders>
+  </delivery_boy>
+</Table>
